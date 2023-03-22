@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Interface_Collection/01_Interface_Collection.iml" filepath="$PROJECT_DIR$/01_Interface_Collection/01_Interface_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Interface Queue/05_Interface Queue.iml" filepath="$PROJECT_DIR$/05_Interface Queue/05_Interface Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Set_InterfaceandHash_Ram/08_Set_InterfaceandHash_Ram.iml" filepath="$PROJECT_DIR$/08_Set_InterfaceandHash_Ram/08_Set_InterfaceandHash_Ram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collection.iml" filepath="$PROJECT_DIR$/.idea/Collection.iml" />
+    </modules>
+  </component>
+</project>
